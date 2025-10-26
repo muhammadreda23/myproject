@@ -1,5 +1,6 @@
 h1{
 <<<<<<< HEAD
+<<<<<<< HEAD
     color:red;
 }
 body{
@@ -7,6 +8,9 @@ body{
     }
 =======
     color: blue;
+=======
+    color: rgb(41, 41, 58);
+>>>>>>> reda
 }
 body{
     background-color:antiquewhite;
