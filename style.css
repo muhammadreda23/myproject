@@ -1,6 +1,14 @@
 h1{
+<<<<<<< HEAD
     color:red;
 }
 body{
     background-color: aquamarine;
     }
+=======
+    color: blue;
+}
+body{
+    background-color:antiquewhite;
+}
+>>>>>>> Reda
